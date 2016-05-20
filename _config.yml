@@ -11,7 +11,7 @@ email: contact@periodicmedia.co
 description: > # this means to ignore newlines until "baseurl:"
   The ideal behind-the-scenes division that deals with software and
   hardware in general. We want to help people create- and that's what
-  keeps us going! Visit us at [periodicmedia.co](http://periodicmedia.co/ "periodicmedia.co").
+  keeps us going! Visit us at [periodicmedia.co](http://periodicmedia.co/).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pmgdev.ga" # the base hostname & protocol for your site
 twitter_username: periodicmedia
